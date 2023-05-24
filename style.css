@@ -5,23 +5,23 @@ body{
 }
 
 .titulo-pagina{
-  color:blue
-  font-weight: bold;
+ background-color: burlywood;
+  
   
 }
 .informacoes{
-    font-family: Arial, Helvetica, sans-serif;
-    color: blue;
+    background-color: burlywood;
+    
 }
 .descricao{
-    color: blue;
+    background-color: burlywood;
+    
 
 }
 .interesses{
-    color:blue
+    background-color: burlywood;
+    
 }
 .rodape{
     color: blue;
-    font-family: Arial, Helvetica, sans-serif;
-    text-align: center;
 }
