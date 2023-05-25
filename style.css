@@ -4,10 +4,20 @@ body{
     background-color: bisque
 }
 
-.titulo-pagina{
- background-color: burlywood;
+.titulo-pagina h1{
+ background-color:bisque;
+ color: blue;
   
   
+}
+.titulo-pagina img{
+    width: 70px;
+    height: 100px;
+    
+
+
+
+
 }
 .informacoes{
     background-color: burlywood;
@@ -24,4 +34,6 @@ body{
 }
 .rodape{
     color: blue;
+    padding: 100pt;
+    text-align: center;
 }
